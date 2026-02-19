@@ -1,0 +1,10 @@
+body{
+    font-family:Segoe UI, Arial, sans-serif;
+    background:#f4f7fb;
+}
+h1,h2,h3{
+    color:#0a2a43;
+}
+button{
+    cursor:pointer;
+}
